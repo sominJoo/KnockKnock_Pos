@@ -14,6 +14,7 @@ Mysql DB를 사용하여 데이터를 저장,관리 해주었고, JDBC를 이용
 ---
 ## PosProgram 화면
 [Login]
+
 ![login](https://user-images.githubusercontent.com/59429551/105848686-b6629280-6022-11eb-8c79-86c05515f573.png)
 
 [Main]

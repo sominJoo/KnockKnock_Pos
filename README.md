@@ -18,7 +18,7 @@ Mysql DB를 사용하여 데이터를 저장,관리 해주었고, JDBC를 이용
 <img src="https://user-images.githubusercontent.com/59429551/105848686-b6629280-6022-11eb-8c79-86c05515f573.png" width="380" height ="220">                 
 
 
-2.회원가입 화면
+2. 회원가입 화면
 
 ![signup](https://user-images.githubusercontent.com/59429551/105849027-2bce6300-6023-11eb-9287-cfed1936832a.png)
 
@@ -33,10 +33,16 @@ Mysql DB를 사용하여 데이터를 저장,관리 해주었고, JDBC를 이용
 <img src="https://user-images.githubusercontent.com/59429551/105848873-f0cc2f80-6022-11eb-82c4-2b87cb7fbc91.png" width="380" height ="220">
 
 
-5.메뉴 화면 - 메뉴를 불러오고 추가, 삭제 가능.
+5. 메뉴 화면 - 메뉴를 불러오고 추가, 삭제 가능.
 
 <img src="https://user-images.githubusercontent.com/59429551/105848801-ddb95f80-6022-11eb-80e3-9c8fea163207.png" width="380" height ="220">                
 
-<img src="https://user-images.githubusercontent.com/59429551/105848917-ff1a4b80-6022-11eb-848f-84b8eb900a27.png" width="380" height ="220">                 <img src="https://user-images.githubusercontent.com/59429551/105848964-10fbee80-6023-11eb-86be-da73b9163d86.png" width="380" height ="220">
+
+6. 좌석 화면 - 저장된 좌석 수를 불러오거나 저장, 초기화, 수정 가능.
+
+<img src="https://user-images.githubusercontent.com/59429551/105848917-ff1a4b80-6022-11eb-848f-84b8eb900a27.png" width="380" height ="220">                 
+
+
+<img src="https://user-images.githubusercontent.com/59429551/105848964-10fbee80-6023-11eb-86be-da73b9163d86.png" width="380" height ="220">
 
 ![wait](https://user-images.githubusercontent.com/59429551/105848997-1fe2a100-6023-11eb-8417-faea58382804.png) 

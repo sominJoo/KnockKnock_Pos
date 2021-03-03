@@ -19,10 +19,12 @@ Mysql DB를 사용하여 데이터를 저장,관리 해주었고, JDBC를 이용
 
 
 2.회원가입 화면
+
 ![signup](https://user-images.githubusercontent.com/59429551/105849027-2bce6300-6023-11eb-9287-cfed1936832a.png)
 
 
 2. Main화면. -프로그램 사용방법을 알수 있음
+
 <img src="https://user-images.githubusercontent.com/59429551/105848764-cf6b4380-6022-11eb-9da5-f9fb7582461c.png" width="380" height ="220">
 
 <img src="https://user-images.githubusercontent.com/59429551/105848801-ddb95f80-6022-11eb-80e3-9c8fea163207.png" width="380" height ="220">                 <img src="https://user-images.githubusercontent.com/59429551/105848873-f0cc2f80-6022-11eb-82c4-2b87cb7fbc91.png" width="380" height ="220">
